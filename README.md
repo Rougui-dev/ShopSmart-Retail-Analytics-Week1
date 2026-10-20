@@ -6,7 +6,7 @@ This repository contains the complete Week 1 Data Science project for **ShopSmar
 
 ### Deliverables
 - `Week1_EDA.ipynb`: Fully documented Jupyter Notebook covering Data Cleaning, EDA, KPIs (\$7.58B Revenue), Visualizations, Correlation Analysis, Feature Engineering, and Business Insights.
-- ``Visualizations/` : Exported exploratory data analysis charts and plots (PNG format).
+- `Visualizations/` : Exported exploratory data analysis charts and plots (PNG format).
 - `requirements.txt`: Python environment dependencies.
 
 ### Author
